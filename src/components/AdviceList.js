@@ -9,7 +9,6 @@ import { bounce,
          rollIn, 
          fadeInDownBig, 
          hinge } from 'react-animations';
-import {Paper} from '@material-ui/core';
 import styled, { keyframes } from "styled-components";
 import { connect } from "react-redux";
 import { getAdvice } from "../actions/actions.js";
